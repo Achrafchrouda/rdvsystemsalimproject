@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.3": {
+    "promptValues": {
+      "packageName": "com.satoripop.rdv",
+      "nativeLanguage": "en"
+    }
+  }
+}
